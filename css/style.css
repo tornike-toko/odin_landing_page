@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    border: none;
+    background: none;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+header,
+section.hero,
+footer {
+    background-color: #1f2937;
+}
+
+.logo,
+.hero h1,
+footer,
+button,
+.call-to-act h3 {
+    color: #f9faf8;
+}
+
+header ul a,
+.hero .text p,
+.call-to-act .text p {
+    color: #e5e7eb;
+}
+
+button,
+.call-to-act {
+    background: #3882f6;
+}
